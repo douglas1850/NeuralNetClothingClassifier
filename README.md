@@ -1,5 +1,5 @@
 # NeuralNetClothingClassifier
-Followed Tensorflow guide to make a deep neural network that identifies articles of clothing with 87% accuracy
+Followed Tensorflow guide to make a deep neural network that identifies articles of clothing with ~87% accuracy
 
 
 In order to run this you'll need to download Tensorflow 1.11.0 (which contains Keras API), numpy, and matplotlib.
